@@ -1,6 +1,6 @@
 # udi-application-appointment-check
 
-A simple selenium script for checking UDI police appointment availability for a citizenship application.
+A simple selenium script for checking UDI police appointment availability for a family immigration and permanent residence permit application.
 
 To run this script from GitHub, the GitHub action needs the properties *udi_email* and *udi_password*
 set as secrets in the cloned project. This can be done in the settings tab under secrets. This data is
