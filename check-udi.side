@@ -17,13 +17,13 @@
           "id": "udi-type-password",
           "command": "type",
           "target": "id=password",
-          "value": "Faisal.123"
+          "value": "%UDI_PASSWORD%"
         },
         {
           "id": "udi-type-email",
           "command": "type",
           "target": "id=logonIdentifier",
-          "value": "faisal1212@gmail.com"
+          "value": "%UDI_EMAIL%"
         },
         {
           "id": "udi-do-login",
